@@ -6,7 +6,7 @@ extra:
 site_author: Proofixel Team
 site_description: Documentação oficial e guias da plataforma Proofixel.
 repo_name: proofixel-docs
-repo_url: https://github.com/gotikozzy/proofixel-docs
+repo_url: https://github.com/proofixel/proofixel-docs
 edit_uri: ""
 theme:
   name: material
